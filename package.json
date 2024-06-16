@@ -1,0 +1,18 @@
+{
+  "name": "trabalho_final_poo",
+  "version": "1.0.0",
+  "description": "Desenvolver um sistema de gerenciamento de uma biblioteca utilizando os conceitos de Programação Orientada a Objetos (POO). Este projeto servirá para revisar e aplicar os principais conceitos abordados ao longo da unidade curricular, como classes, objetos, herança, polimorfismo, encapsulamento, e manipulação de arquivos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/prompt-sync": "^4.2.3",
+    "prompt-sync": "^4.2.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
